@@ -1,7 +1,9 @@
 # Twitter-auto-tweets-with-multiple-accounts
 Twitter auto tweets with multiple accounts using selenium with python
 
-Download Latest Version Of chromedriver https://chromedriver.chromium.org/ After Download Extract That File And Place To The Folder in g.py file replace 14,18 with with twitter username and password do it in below where username and password asked put other twitter acccounts for below code and change to your required tweet line in 21 ,24,27,30,33 line and below code where tweet line have.
+👉Twitter Auto Tweet https://youtu.be/VIgeFb8rPZs
+
+Download Latest Version Of chromedriver https://chromedriver.chromium.org/ After Download Extract That File And Place To The Folder in g.py file replace 14,18 with with twitter username and password do it in below where username and password asked put other twitter acccounts for below code and change to your required tweet line in 21 ,24,27,30,33 line and aslo in below code where tweet line have.
  open cmd and enter g.py or click on g.py file it take autoprocess.
 
 👉Note:-
