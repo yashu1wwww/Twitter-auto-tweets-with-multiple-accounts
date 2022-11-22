@@ -1,6 +1,8 @@
 # Twitter-auto-tweets-with-multiple-accounts
 Twitter auto tweets with multiple accounts using selenium with python
 
+#here i am added upto 2 accs which auto login and tweet if you want more means copy line from 57 to 96 and paste that in 97 line use note++ to find the number line if you want more means do copy paste and again and again and dont forgot to replace acc with password
+
 👉Twitter Auto Tweets
 
 https://youtu.be/VIgeFb8rPZs
