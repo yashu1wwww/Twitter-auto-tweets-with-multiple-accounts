@@ -1,4 +1,4 @@
-#here i am added upto 2 accs which auto login and tweet if you want more means copy line from 57 to 97 and paste that in 97 line use note++ to find the number line if you want more means do copy paste and again and again and dont forgot to replace acc with password
+#here i am added upto 2 accs which auto login and tweet if you want more means copy line from 57 to 96 and paste that in 97 line use note++ to find the number line if you want more means do copy paste and again and again and dont forgot to replace acc with password
 #(note for auto login used accs must be non authentication accounts)
 
 import time
