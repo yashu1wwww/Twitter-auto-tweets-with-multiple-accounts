@@ -5,7 +5,7 @@ Twitter auto tweets with multiple accounts using selenium with python
 
 Download Latest Version Of chromedriver https://chromedriver.chromium.org/ After Download Extract That File And Place To The Folder in g.py file
 
-replace 15,19 with with twitter username and password and also in 60 and 64 with twitter username with password..
+replace 18,22 line with with twitter username and password and also in 60 and 64 with twitter username with password..
 note:-dont use accounts with two factor authentication..
 
  open cmd  on that particular folder and enter g.py or double click on g.py file it take autoprocess.
