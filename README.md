@@ -1,18 +1,20 @@
 # Twitter-auto-tweets-with-multiple-accounts
 Twitter auto tweets with multiple accounts using selenium with python
 
-#here i am added upto 2 accs which auto login and tweet if you want more means copy line from 57 to 96 and paste that in 97 line use note++ to find the number line if you want more means do copy paste and again and again and dont forgot to replace acc with password
+Here, I have added code to auto-login and tweet using up to 2 Twitter accounts. If you want to add more accounts, you can copy lines 57 to 96 and paste them on line 97. You can use Note++ to find the line number. Repeat the process to add more accounts, and don't forget to replace "acc" with the actual password.
 
-👉Twitter Auto Tweets
+👉 Twitter Auto Tweets
 
 https://youtu.be/VIgeFb8rPZs
 
-Download Latest Version Of chromedriver https://chromedriver.chromium.org/ After Download Extract That File And Place To The Folder in g.py file
+Download the latest version of chromedriver from https://chromedriver.chromium.org/. After downloading, extract the file and place it in the same folder as the "g.py" file.
 
-replace 18,22 line with with twitter username and password and also in 63 and 67 with twitter username with password..
-note:-dont use accounts with two factor authentication..
+Replace lines 18 and 22 with your Twitter username and password. Also, replace lines 63 and 67 with your Twitter username and password.
 
- open cmd  on that particular folder and enter g.py or double click on g.py file it take autoprocess.
+Note: Do not use accounts with two-factor authentication.
+
+To run the script, open the command prompt in the folder and enter "g.py" or double-click on the "g.py" file to start the automated process.
+
 
 👉Note:-
 
