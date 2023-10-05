@@ -48,7 +48,7 @@ while True:
 
            
         counter += 1
-        if counter == 5: #change how much you want tweets per acc
+        if counter == 5: #Change '5' to 'how many auto tweet for a acc....
             break
         
     except Exception as e:
@@ -91,7 +91,7 @@ while True:
 
            
         counter += 1
-        if counter == 5: #change how much you want tweets per acc
+        if counter == 5: #Change '5' to 'how many auto tweet for a acc....
             break
         
     except Exception as e:
