@@ -12,10 +12,6 @@ if you want one more account means copy line from 61 to 102 and paste again and 
 
 # Note: For auto-login, the accounts used must be non-authentication accounts
 
-👉 Twitter Auto Tweets
-
-https://youtu.be/VIgeFb8rPZs
-
 Download the latest version of chromedriver from https://chromedriver.chromium.org/. After downloading, extract the file and place it in the same folder as the "g.py" file.
 
 Replace lines 18 and 22 with your Twitter username and password. Also, replace lines 63 and 67 with your Twitter username and password.
