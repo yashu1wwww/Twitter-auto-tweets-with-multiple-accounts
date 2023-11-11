@@ -11,7 +11,7 @@ Twitter auto tweets with multiple accounts using selenium with python
 
 # Note: For auto-login, the accounts used must be non-authentication accounts
 
-# do replace for 2nd acc also if you want more acc copy and 60 to 101 line and replace username and pass and remaining thing..
+# do replace for 2nd acc also,if you want more acc copy and 60 to 101 line and replace username and pass and remaining thing..
 
 Download the latest version of chromedriver from https://chromedriver.chromium.org/. After downloading, extract the file and place it in the same folder as the "g.py" file.
 
