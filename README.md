@@ -1,14 +1,9 @@
 # Twitter-auto-tweets-with-multiple-accounts
 Twitter auto tweets with multiple accounts using selenium with python
 
-Here, I have added up to 2 accounts which will auto-login and auto-tweet in twitter
+# Here, I have added up to 2 accounts which will auto-login and auto-tweet in twitter
 
-# Change the random words if you want different words in the 15th line, the username and password of Twitter in the 24th and 28th lines, the Twitter post URL in the 31st line, and replace the '5' with how many tweets you want in the 51st line.
-
-
-if you want one more account means copy line from 61 to 102 and paste again and replace the usr and pswd etc...
-
-# do same replacement in second acc where it's asked..
+# Change the random words if you want different words in the 15th line, the username and password of Twitter in the 24th and 28th lines, the Twitter post URL in the 31st line, and replace the '5' with how many tweets you want in the 50th line.
 
 # Note: For auto-login, the accounts used must be non-authentication accounts
 
