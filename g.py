@@ -21,7 +21,7 @@ driver.maximize_window()
 driver.get("https://twitter.com/i/flow/login")
 time.sleep(7)
 email = driver.find_element_by_name('text')
-email.send_keys("tweet123@#$%") #replace with your valid twitter username
+email.send_keys("tweet123") #replace with your valid twitter username
 email.send_keys(Keys.ENTER)
 time.sleep(3)
 password = driver.find_element_by_name("password")
@@ -63,7 +63,7 @@ driver.maximize_window()
 driver.get("https://twitter.com/i/flow/login")
 time.sleep(7)
 email = driver.find_element_by_name('text')
-email.send_keys("tweet123@#$%") #replace with your valid twitter username
+email.send_keys("tweet123") #replace with your valid twitter username
 email.send_keys(Keys.ENTER)
 time.sleep(3)
 password = driver.find_element_by_name("password")
