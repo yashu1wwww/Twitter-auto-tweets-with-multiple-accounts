@@ -21,6 +21,8 @@ Note: Do not use accounts with two-factor authentication.
 
 To run the script, open the command prompt in the folder and enter "g.py" or double-click on the "g.py" file to start the automated process.
 
+# 👉 Note: Every time Twitter updates the code, it varies. So press 'Ctrl+Shift+C' to open the developer tools, and inspect and fork it..
+
 
 👉Note:-
 
