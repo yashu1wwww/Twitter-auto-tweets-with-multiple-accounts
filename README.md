@@ -3,7 +3,7 @@ Twitter auto tweets with multiple accounts using selenium with python
 
 # Here, I have added up to 5 accounts which will auto-login and auto-tweet in twitter
 
-# Change the random words if you want different words in the 15th line, 
+# Change the random words if you want different words.
 
 # Must change username and password field..
 
@@ -12,8 +12,6 @@ Twitter auto tweets with multiple accounts using selenium with python
 # Note: For auto-login, the accounts used must be non-authentication accounts
 
 Download the latest version of chromedriver from https://chromedriver.chromium.org/. After downloading, extract the file and place it in the same folder as the "g.py" file.
-
-Replace lines 18 and 22 with your Twitter username and password. Also, replace lines 63 and 67 with your Twitter username and password.
 
 Note: Do not use accounts with two-factor authentication.
 
