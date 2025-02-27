@@ -1,9 +1,11 @@
 #upto 5 accounts you can auto tweet for more add more twitter username and password in list 
- from selenium import webdriver
+from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
 import time
-import random
 
 # List of Twitter accounts (replace with valid credentials)
 accounts = [
